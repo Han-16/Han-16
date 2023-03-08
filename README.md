@@ -63,7 +63,16 @@ Here are some ideas to get you started:
   
 <br>
 <br>
-  <a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Han-16&theme=react&line_height=40&hide=css"/> </a>
+<div align="left">
+  
+  
+ </div>
+
+<div align="right">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-16&theme=highcontrast)](https://github.com/Han-16/github-readme-stats)
+</div>
+
 <!-- 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
