@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20there&fontSize=73&fontAlignY=35&desc=I'm%20Byeong%20Kyu&descAlign=60&descAlignY=55&animation=fadeIn"/>
 </div>
 
-<h5>Hello! I'm Byeong Kyu - Han </h5>
-<h5>I'm studying Back-End and smart contract development.</h5>
-<h5>major : AI BigData & Management</h5>
-<h5>minor : Computer Science</h5>
+<h4>Hello! I'm Byeong Kyu - Han </h4>
+<h4>I'm studying Back-End and smart contract development.</h4>
+<h4>major : AI BigData & Management</h4>
+<h4>minor : Computer Science</h4>
 
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
