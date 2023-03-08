@@ -63,15 +63,12 @@ Here are some ideas to get you started:
   
 <br>
 <br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-16&show_icons=true&theme=dark)
-&nbsp;&nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-16&langs_count=8&theme=tokyonight)](https://github.com/Han-16/github-readme-stats)
-
+  <a href=""> <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Han-16&theme=react&line_height=40&hide=css"/> </a>
+<!-- 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="mailto:haanbk16@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
+</p> -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&animation=fadeIn"/> -->
 
