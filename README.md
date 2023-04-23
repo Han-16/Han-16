@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 👯 Also, these days, I'm enjoying studying **Blockchain, Smart Contracts**<br>
 😄 Thanks for coming! :)
 
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Han-16&theme=dark)
+![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Han-16&theme=highcontrast)
 
 
 ### 🛠 Tech Stack
