@@ -135,8 +135,8 @@ Here are some ideas to get you started:
 </table>
 
 ### 💪 Stats
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Han-16&theme=vue)
-![Han-16's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Han-16&theme=vue)
-![Han-16's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Han-16&theme=vue&hide_border=true&date_format=%5BY%20%5DM%20j)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Han-16&theme=vue&utcOffset=8)
-![trophy](https://github-profile-trophy.vercel.app/?username=Han-16&margin-w=0&theme=gitdimme&row=1&column=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-16&layout=compact&theme=tokyonight)
+![Han-16's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Han-16&theme=tokyonight)
+![Han-16's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Han-16&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j)
+![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Han-16&theme=tokyonight&utcOffset=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=Han-16&margin-w=0&theme=tokyonight&row=1&column=5)
