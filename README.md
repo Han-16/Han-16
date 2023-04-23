@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20there&fontSize=73&fontAlignY=35&desc=I'm%20Byeong%20Kyu&descAlign=60&descAlignY=55&animation=fadeIn"/>
 </div>
 
-👋 Hi there! I'm **back-end developer** using **Python, Node.js** and **Go**<br>
+👋 Hi there! I'm learning **back-end development** using **Python, Node.js** and **Go**<br>
 🔭 I'm currently enrolled at **Kookmin University**<br>
 🌱 My major is **AI & Data Analisis**, minor is **Computer Science**<br>
 👯 Also, these days, I'm enjoying studying **Blockchain, Smart Contracts**<br>
