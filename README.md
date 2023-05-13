@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👋 Hi there! I'm learning **back-end development** using **Python, Node.js** and **Go**<br>
 🔭 I'm currently enrolled at **Kookmin University**<br>
 🌱 My major is **AI & Data Analisis**, minor is **Computer Science**<br>
-👯 Also, these days, I'm enjoying studying **Blockchain, Smart Contracts**<br>
+🤔 Also, these days, I'm enjoying studying **Blockchain, Smart Contracts**<br>
 😄 Thanks for coming! :)
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Han-16&theme=highcontrast)
