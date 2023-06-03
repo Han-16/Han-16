@@ -36,8 +36,8 @@ Here are some ideas to get you started:
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Go</strong></span><br>
-        <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+        <span><strong>Java</strong></span><br>
+        <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>TypeScript</strong></span><br>
@@ -54,16 +54,16 @@ Here are some ideas to get you started:
         <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
       </td>
       <td width="80px" align="center">
-        <span><strong>Solidity</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">
+        <span><strong>Kotlin</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Node.js</strong></span><br>
+        <span><strong>Go</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+        <span><strong>Nodejs</strong></span><br>
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Polygon</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" />
       </td>
     </tr>
   </tbody>
