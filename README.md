@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       </td>
       <td width="80px" align="center">
         <span><strong>Go</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" />
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
       </td>
       <td width="80px" align="center">
         <span><strong>Nodejs</strong></span><br>
