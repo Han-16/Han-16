@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       </td>
       <td width="80px" align="center">
         <span><strong>Rust</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
+        <img height="32px" src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-256x256.png">
       </td>
     </tr>
   </tbody>
