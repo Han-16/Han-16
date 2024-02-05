@@ -31,34 +31,16 @@ Here are some ideas to get you started:
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>Java</strong></span><br>
-        <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+        <span><strong>Solidity</strong></span><br>
+        <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg">
       </td>
       <td width="80px" align="center">
         <span><strong>TypeScript</strong></span><br>
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
       </td>
       <td width="80px" align="center">
-        <span><strong>JavaScript</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="80px" align="center">
-        <span><strong>Django</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Kotlin</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Go</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Nodejs</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        <span><strong>Rust</strong></span><br>
+        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg">
       </td>
     </tr>
   </tbody>
