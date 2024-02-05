@@ -108,30 +108,9 @@ Here are some ideas to get you started:
         <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
       </td>
     </tr>
-    <tr valign="top">
-      <td width="80px" align="center">
-        <span><strong>Kubernetes</strong></span><br>
-        <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Jira</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Docker</strong></span><br>
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-      </td>
-      <td width="80px" align="center">
-        <span><strong>Jenkins</strong></span><br>
-        <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-      </td>
-    </tr>
   </tbody>
 </table>
 
 ### 💪 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-16&layout=compact&theme=dark)
-![Han-16's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Han-16&theme=dark)
-![Han-16's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Han-16&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Han-16&theme=dark&utcOffset=8)
 
